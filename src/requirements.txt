@@ -11,6 +11,7 @@ requests>=2.27.1
 scikit-learn
 seaborn>=0.12.2
 sqlalchemy>=1.4.37
+flask>=3.0.2
 gunicorn>=21.2.0
 sympy>=1.10.1
 xgboost
